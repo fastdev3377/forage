@@ -1,0 +1,5 @@
+{
+  "src": "./src/testcafe/tests.tsx",
+  "skipJsErrors": true,
+  "browserInitTimeout": 300000
+}
